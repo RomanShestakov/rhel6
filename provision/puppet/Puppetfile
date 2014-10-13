@@ -1,0 +1,19 @@
+# -*- mode: puppet-mode -*-
+# vi: set ft=ruby :
+
+# Configuration for librarian-puppet. For example:
+# 
+forge "http://forge.puppetlabs.com"
+#forge "https://forgeapi.puppetlabs.com"
+
+mod "garethr/erlang"
+mod "camptocamp/archive"
+mod "puppetlabs/vcsrepo"
+mod "maestrodev/wget"
+mod "puppetlabs/git"
+mod "mhuffnagle/curl"
+# mod "tracywebtech/supervisor" 
+# mod "puppetlabs/postgresql"
+#mod "tracywebtech/pip"
+#mod "saz/locales"
+

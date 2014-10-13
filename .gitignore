@@ -1,0 +1,8 @@
+/provision/.DS_Store
+/provision/puppet/.DS_Store
+/provision/puppet/.librarian/puppet/config
+/provision/puppet/.tmp/*
+
+/provision/puppet/modules/.DS_Store
+/.DS_Store
+/.vagrant/
